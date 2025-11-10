@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import Link from 'next/link'
 
 export default function CoverageMap() {
   return (
@@ -24,15 +25,17 @@ export default function CoverageMap() {
                 all sizes.
               </p>
               
+            <Link href="/coverage-map">
               <button className="bg-white text-red-600 px-8 py-3 rounded-md font-semibold hover:bg-gray-100 transition">
                 View Coverage Map
               </button>
+              </Link>
             </div>
 
             {/* Map Image */}
             <div className="relative h-64 lg:h-80">
               <Image
-                src="/nigeria-map.png"
+                src="/coverage-map.png"
                 alt="Nigeria coverage map"
                 fill
                 className="object-contain"

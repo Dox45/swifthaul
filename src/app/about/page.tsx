@@ -52,7 +52,7 @@ const HeroSection = () => (
           Kwara. We blend speed, reliability, and affordability to make every
           delivery seamless for individuals and businesses alike.
         </p>
-      <Link href="https://docs.google.com/forms/d/e/1FAIpQLSexrsTPglYdx_5CaRuU6lHFvNqniMlt7D0eARDL2prvHpzbbQ/viewform?usp=header">
+      <Link href="https://wa.me/+2347057576394">
         <motion.button
           whileHover={{ scale: 1.08 }}
           whileTap={{ scale: 0.95 }}

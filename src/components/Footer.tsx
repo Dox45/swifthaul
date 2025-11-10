@@ -38,7 +38,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="text-white/80 hover:text-white transition text-sm">
+                <Link href="https://wa.me/+2347057576394" className="text-white/80 hover:text-white transition text-sm">
                   Contact
                 </Link>
               </li>
@@ -50,18 +50,18 @@ export default function Footer() {
             <h3 className="text-lg font-bold mb-4">Follow Us</h3>
             <ul className="space-y-3">
               <li>
-                <a href="#" className="text-white/80 hover:text-white transition text-sm">
-                  Facebook
+                <a href="https://tiktok.com/@swifthaul.logisti?_t=ZS-8yXTTMktoH6&_r=1" className="text-white/80 hover:text-white transition text-sm">
+                  Tiktok
                 </a>
               </li>
               <li>
-                <a href="#" className="text-white/80 hover:text-white transition text-sm">
-                  Swifthual logistics
+                <a href="https://x.com/swifthaull?s=21" className="text-white/80 hover:text-white transition text-sm">
+                  X
                 </a>
               </li>
               <li>
-                <a href="#" className="text-white/80 hover:text-white transition text-sm">
-                  Swifthual
+                <a href="https://www.Instagram.com/swifthaul_logistics?igsh=ZDMzZDJkajVwZm85&utm_source=gr" className="text-white/80 hover:text-white transition text-sm">
+                  Instagram
                 </a>
               </li>
             </ul>
