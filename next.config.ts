@@ -1,3 +1,4 @@
+
 // import type { NextConfig } from "next";
 
 // const nextConfig: NextConfig = {
@@ -5,27 +6,32 @@
 //     serverActions: {}, // must be an object, not boolean
 //   },
 //   reactStrictMode: true,
-  
+//   eslint: {
+//     ignoreDuringBuilds: true, // disables ESLint build blocking
+//   },
+//   typescript: {
+//     ignoreBuildErrors: true, // disables TypeScript build blocking
+//   },
 // };
 
 // export default nextConfig;
-
-
-// @ts-nocheck
-/* eslint-disable */
-
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  // Disable Turbopack to fix framer-motion chunk corruption
   experimental: {
-    serverActions: {}, // must be an object, not boolean
+    turbopack: false,
+    serverActions: {}, // required as object
   },
+
   reactStrictMode: true,
+
   eslint: {
-    ignoreDuringBuilds: true, // disables ESLint build blocking
+    ignoreDuringBuilds: true, // skip ESLint during build
   },
+
   typescript: {
-    ignoreBuildErrors: true, // disables TypeScript build blocking
+    ignoreBuildErrors: true, // skip TypeScript errors during build
   },
 };
 
