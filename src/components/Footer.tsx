@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import { Mail, Phone } from 'lucide-react'
+import { SiTiktok, SiX, SiInstagram } from "react-icons/si";
+import { Mail, Phone, Instagram, Twitter} from 'lucide-react'
 
 export default function Footer() {
   return (
@@ -51,17 +52,19 @@ export default function Footer() {
             <ul className="space-y-3">
               <li>
                 <a href="https://tiktok.com/@swifthaul.logisti?_t=ZS-8yXTTMktoH6&_r=1" className="text-white/80 hover:text-white transition text-sm">
-                  Tiktok
+                  <SiTiktok className="w-6 h-6 text-black" />
+                  
                 </a>
               </li>
               <li>
                 <a href="https://x.com/swifthaull?s=21" className="text-white/80 hover:text-white transition text-sm">
-                  X
+                <SiX className="w-6 h-6 text-black" />
                 </a>
               </li>
               <li>
                 <a href="https://www.Instagram.com/swifthaul_logistics?igsh=ZDMzZDJkajVwZm85&utm_source=gr" className="text-white/80 hover:text-white transition text-sm">
-                  Instagram
+                <SiInstagram className="w-6 h-6 text-black" />
+                
                 </a>
               </li>
             </ul>
