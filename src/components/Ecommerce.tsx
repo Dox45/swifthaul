@@ -5,6 +5,15 @@ export default function Ecommerce() {
     <section className="py-16 bg-white">
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+         {/* Image */}
+        <div className="relative h-96">
+            <Image
+              src="/service-van.jpg"
+              alt="Warehouse delivery"
+              fill
+              className="object-cover rounded-lg"
+            />
+          </div>
          
           {/* Text Content */}
           <div>
@@ -13,12 +22,12 @@ export default function Ecommerce() {
             </h2>
             
             <div className="space-y-4 text-gray-700 leading-relaxed">
-              <p>
+              {/*<p>
                 <span className="font-semibold">Time-sensitive?</span> No problem. Our same-day delivery service ensures your package reaches its destination fast — without compromise on safety. Perfect for urgent business needs or last-minute gifts.
-              </p>
+              </p>*/}
               
               <p>
-                Whether it's important documents, parcels, documents, and light cargo, we deliver on time, every time.
+               Online businesses are only as good as their delivery system. That's why we partner with SMEs and vendors to handle last-mile delivery, helping them reach their customers faster and more efficiently. We aim to be the logistics backbone for the growing e-commerce space.
               </p>
             </div>
 
@@ -36,15 +45,8 @@ export default function Ecommerce() {
             </div>
           </div>
 
-           {/* Image */}
-          <div className="relative h-96">
-            <Image
-              src="/service-van.jpg"
-              alt="Warehouse delivery"
-              fill
-              className="object-cover rounded-lg"
-            />
-          </div>
+          
+          
 
         </div>
       </div>

@@ -23,11 +23,11 @@ export default function SameDayDelivery() {
             
             <div className="space-y-4 text-gray-700 leading-relaxed">
               <p>
-                <span className="font-semibold">Time-sensitive?</span> No problem. Our same-day delivery service ensures your package reaches its destination fast — without compromise on safety. Perfect for urgent business needs or last-minute gifts.
+                <span className="font-semibold">Time-sensitive?</span> We've got you.
               </p>
               
               <p>
-                Whether it's important documents, parcels, documents, and light cargo, we deliver on time, every time.
+                Our same-day delivery service ensures that your parcels, documents, and light goods get to their destination within hours. Perfect for students, professionals, and small businesses who can't afford delays.
               </p>
             </div>
 

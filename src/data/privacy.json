@@ -1,0 +1,69 @@
+{
+  "title": "Privacy Policy",
+  "intro": "At Swifthaul Logistics, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our services.",
+  "sections": [
+    {
+      "heading": "1. Information We Collect",
+      "description": "We may collect the following information when you use our services:",
+      "items": [
+        "Personal details (name, phone number, email, address).",
+        "Delivery details (pickup and drop-off addresses, package description).",
+        "Payment information (only for transaction processing).",
+        "Communication details (chats, emails, or calls with our support team)."
+      ]
+    },
+    {
+      "heading": "2. How We Use Your Information",
+      "description": "Your information is used to:",
+      "items": [
+        "Process and complete deliveries.",
+        "Communicate booking updates and confirmations.",
+        "Improve our services and customer experience.",
+        "Provide customer support.",
+        "Comply with legal obligations."
+      ]
+    },
+    {
+      "heading": "3. Sharing of information",
+      "description": "We do not sell or rent your personal information. However, we may share it with:",
+      "items": [
+        "Authorized delivery riders and staff for completing bookings.",
+        "Legal Auhtorities if required by law",
+        "Third-party service providers (e.g payment processors) strictly for service purposes."
+      ]
+    },
+    {
+      "heading":"4. Data Security",
+      "description":"We take reasonable measures to protect your information from unauthorized access, loss or misuse. However, no method of electronic transmission is 100% secure.",
+      "items": []
+    },
+    {
+      "heading":"5. Your Rights",
+      "description": "You have the right to:",
+      "items": [
+        "Access the personal data we hold about you",
+        "Request corrections or updates",
+        "Request deletion of your data (Subject to legal requirements)"
+      ]
+    },
+    {
+      "heading":"6. Cookies & Tracking",
+      "description":"Our website may use cookies to improve user experience. You can disbale cookies in your browser settings.",
+      "items":[]
+    },
+    {
+      "heading":"7. Updates to this Policy",
+      "description":"We may update this Privay Policy occasionally. Any changes will be posted on this page with the revised effective date.",
+      "items":[]
+    },
+    {
+      "heading": "*. Contact Us",
+      "description": "For questions about this Privacy Policy",
+      "items":[
+        "Email: swifthaullogisticsservices@gmail.com",
+        "Phone: +234-705-757-6394",
+        "Whatsapp: +234-705-757-6394"
+      ]
+    }
+  ]
+}

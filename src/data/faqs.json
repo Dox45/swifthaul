@@ -1,0 +1,77 @@
+[
+  {
+    "category": "Services & Coverage",
+    "question": "What areas do you currently serve?",
+    "answer": "We operate in Lagos State and Kwara State (starting from Tanke and surrounding areas) with plans to expand to more locations."
+  },
+  {
+    "category": "Services & Coverage",
+    "question": "What types of items can you deliver?",
+    "answer": "We deliver: Documents & parcels, Food & beverages, Clothing & accessories, Small electronics, E-commerce vendor orders. We do not deliver illegal, dangerous, or prohibited items."
+  },
+  {
+    "category": "Services & Coverage",
+    "question": "Can I send fragile or high-value items?",
+    "answer": "Yes. Please inform us at booking so we can handle them with extra care. For high-value items, you may request additional insurance."
+  },
+  {
+    "category": "Services & Coverage",
+    "question": "Do you offer bulk or special event delivery?",
+    "answer": "Yes. We can arrange for bulk orders, event materials, and time-sensitive shipments. Contact us for a custom quote."
+  },
+  {
+    "category": "Services & Coverage",
+    "question": "Do you operate on weekends and holidays?",
+    "answer": "Yes, we work 7 days a week, including public holidays (unless otherwise announced)."
+  },
+  {
+    "category": "Booking & Scheduling",
+    "question": "How do I place an order?",
+    "answer": "You can book via: WhatsApp: [Your WhatsApp Link], Phone: 07057576394, Email: swifthaullogisticsservices@gmail.com. Send your pickup and delivery details, and we’ll confirm your request promptly."
+  },
+  {
+    "category": "Booking & Scheduling",
+    "question": "Can I book in advance?",
+    "answer": "Yes. We accept both same-day and scheduled bookings."
+  },
+  {
+    "category": "Booking & Scheduling",
+    "question": "How quickly will my delivery arrive?",
+    "answer": "Delivery time depends on location, distance, and traffic. Within the same city, most deliveries are completed within 1–3 hours."
+  },
+  {
+    "category": "Booking & Scheduling",
+    "question": "Can I track my delivery?",
+    "answer": "Yes, real-time updates are available from our support team via WhatsApp or phone."
+  },
+  {
+    "category": "Payments & Pricing",
+    "question": "What are your delivery rates?",
+    "answer": "Our rates start at: ₦1,000 within Tanke (varies by distance, weight, and quantity), ₦1,500 outside Tanke (subject to same variations)."
+  },
+  {
+    "category": "Payments & Pricing",
+    "question": "How do I pay for a delivery?",
+    "answer": "Payments are made directly to the company before dispatch. Payment details will be shared at booking."
+  },
+  {
+    "category": "Partnerships & Opportunities",
+    "question": "Do you offer corporate delivery services?",
+    "answer": "Yes, we partner with e-commerce vendors, restaurants, and corporate clients for tailored delivery solutions."
+  },
+  {
+    "category": "Partnerships & Opportunities",
+    "question": "How do I become a Swifthaul rider?",
+    "answer": "We recruit periodically. Follow our social media pages or contact us to know when recruitment is open."
+  },
+  {
+    "category": "Policies & Customer Care",
+    "question": "Are my items insured during delivery?",
+    "answer": "We handle all items with care. For high-value goods, you can request extra insurance during booking."
+  },
+  {
+    "category": "Policies & Customer Care",
+    "question": "What happens if my delivery is delayed?",
+    "answer": "In rare cases of delay (e.g., weather, traffic, or emergencies), we’ll inform you immediately and provide a new estimated time of arrival."
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "title": "Terms & Conditions",
+  "intro": "Welcome to Swifthaul Logistics. By using our website, services, or booking deliveries, you agree to the following Terms & Conditions. Please read them carefully.",
+  "sections": [
+    {
+      "heading": "1. Acceptance of Terms",
+      "description": "By accessing or using our services, you confirm that you agree to these Terms & Conditions. If you do not agree, please do not use our services."
+    },
+    {
+      "heading": "2. Service Scope",
+      "description": "We provide logistics and delivery services within Lagos and Kwara State, with expansion planned. Certain items (illegal, dangerous, or restricted goods) are not permitted."
+    },
+    {
+      "heading": "3. Booking & Payment",
+      "description": "All bookings must be confirmed through WhatsApp, phone, or email. Payment is required before dispatch unless agreed otherwise. Prices vary based on distance, weight, urgency, and quantity."
+    },
+    {
+      "heading": "4. Customer Responsibilities",
+      "description": "Customers must: Provide accurate pickup and delivery details. Ensure recipients are available at the destination. Notify us of fragile or high-value items before booking."
+    },
+    {
+      "heading": "5. Delivery Policy",
+      "description": "Same-city deliveries typically take 1-3 hours depending on traffic and distance. Delays caused by traffic, weather or emergencies will be communicated promptly. Some deliveries may require proof of identity upon receipt."
+    },
+    {
+      "heading": "6. Liability and Insurance",
+      "description": "We handle all items with care. Swifthaul is not liable for losses/damages caused by inaccurate information provided by customers. For high-value items, additional insurance can be arranged at booking."
+    },
+    {
+      "heading":"7. Cancellation and Refunds",
+      "description": "Cancellations must be made before dispatch. Refunds (if applicable) will be processed within 5-7 working days"
+    },
+    {
+      "heading": "8. Partnerships and Recruitment",
+      "description": "Corporate clients and vendors may partner with swifthaul under separate agreements. Rider recruitment is periodic and subject to background checks"
+    },
+    {
+      "heading": "Update to Terms",
+      "description": "We may update these Terms and conditions at any time. Continued use of our services after changes means you accept the new terms."
+    },
+    {
+      "heading": "Contact Us",
+      "description": "For questions or concerns about these Terms and conditions: Email: swifthaullogisticsservices@gmail.com, phone: +234-705757-6394 (WhatsApp)"
+    }
+  ]
+}

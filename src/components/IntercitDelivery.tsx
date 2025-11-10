@@ -23,11 +23,11 @@ export default function IntercitDelivery() {
             
             <div className="space-y-4 text-gray-700 leading-relaxed">
               <p>
-                <span className="font-semibold">Time-sensitive?</span> No problem. Our same-day delivery service ensures your package reaches its destination fast — without compromise on safety. Perfect for urgent business needs or last-minute gifts.
+                <span className="font-semibold">Need to move goods between Lagos and Kwara?</span>
               </p>
               
               <p>
-                Whether it's important documents, parcels, documents, and light cargo, we deliver on time, every time.
+               Swifthaul provides reliable intercity delivery, bridging two major hubs with speed and security. Whether personal items or bulk supplies, we guarantee safe transit every time.
               </p>
             </div>
 

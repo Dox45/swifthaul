@@ -51,17 +51,17 @@ export default function Footer() {
             <ul className="space-y-3">
               <li>
                 <a href="#" className="text-white/80 hover:text-white transition text-sm">
-                  Facebook [social]
+                  Facebook
                 </a>
               </li>
               <li>
                 <a href="#" className="text-white/80 hover:text-white transition text-sm">
-                  Swifthirri_logistics
+                  Swifthual logistics
                 </a>
               </li>
               <li>
                 <a href="#" className="text-white/80 hover:text-white transition text-sm">
-                  Swifthirri
+                  Swifthual
                 </a>
               </li>
             </ul>
@@ -104,14 +104,14 @@ export default function Footer() {
             <div className="flex items-start gap-3">
               <Phone className="w-5 h-5 flex-shrink-0 mt-1" />
               <div className="text-sm">
-                <p className="font-semibold mb-1">Phone: +234 705 757 6384</p>
+                <p className="font-semibold mb-1">Phone: +234 7057576394</p>
               </div>
             </div>
             
             <div className="flex items-start gap-3">
               <Mail className="w-5 h-5 flex-shrink-0 mt-1" />
               <div className="text-sm">
-                <p className="font-semibold mb-1">Email: swifthirrilogistics@gmail.com</p>
+                <p className="font-semibold mb-1">Email: swifthuallogisticsservices@gmail.com</p>
               </div>
             </div>
           </div>
@@ -119,7 +119,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <div className="text-center text-white/60 text-sm">
-          <p>&copy; {new Date().getFullYear()} Swifthirri Logistics. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Swifthual Logistics. All rights reserved.</p>
         </div>
       </div>
     </footer>
